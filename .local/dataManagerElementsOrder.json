@@ -1,0 +1,29 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "counter&Sequence_1",
+        "pdfFiles&Sequence_1",
+        "numeFurnizor&Sequence_1",
+        "totalPlata&Sequence_1",
+        "dataFactura&Sequence_1",
+        "numarFactura&Sequence_1",
+        "dt_Facturi&Sequence_1",
+        "Text_From_PDF&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
